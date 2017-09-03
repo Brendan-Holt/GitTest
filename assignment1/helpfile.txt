@@ -15,3 +15,5 @@ After selecting data
 save : save output to a text file
 change : change an employees details
 c : return to the main
+
+NEW LINE
