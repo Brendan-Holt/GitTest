@@ -1,0 +1,17 @@
+The follow command are applicable
+
+
+From Main 
+
+h help
+e exit
+all : select all data to display
+bmi : select employees based on bmi
+pie : display a pie graph
+
+
+After selecting data
+
+save : save output to a text file
+change : change an employees details
+c : return to the main
